@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+body{
+    font-family: 'Inter', sans-serif;
+}
+.left-div{
+    background:#0B1B28;
+}
+footer{
+    background: #434343;
+}
+@media (min-width: 768px) {
+    .object-cover {
+      object-fit: cover;
+      height: 100%;
+      width: 100%;
+    }
+  }
